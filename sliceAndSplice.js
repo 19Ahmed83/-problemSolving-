@@ -4,4 +4,4 @@ function test(arr1, arr2, n) {
     return newArr;
 }
 
-console.log(test([1, 2, 3], [8, 7, 6], 1))
+console.log(test([1, 2, 3], [8, 7, 6], 2))

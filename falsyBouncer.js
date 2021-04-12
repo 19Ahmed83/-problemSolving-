@@ -8,4 +8,4 @@ function bouncer(arr) {
     return newArr;
 }
 
-console.log(bouncer([false, null, 0, NaN, undefined, ""]))
+console.log(bouncer([4, false, null, 0, NaN, undefined, "", 3]))
