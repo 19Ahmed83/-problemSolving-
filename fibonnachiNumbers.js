@@ -4,4 +4,4 @@ const fibonnachi = (n) => {
     }
     return fibonnachi(n - 1) + fibonnachi(n - 2)
 }
-console.log(fibonnachi(16))
+console.log(fibonnachi(8))
