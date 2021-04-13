@@ -6,6 +6,7 @@ function app(n) {
         arr.unshift(last);
         n = (n - last) / 10;
     } while (n > 0)
+    return arr
 }
 
 console.log(app(123))//[1,2,3]

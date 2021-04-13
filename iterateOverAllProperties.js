@@ -16,3 +16,4 @@ for(let property in beagle){
 }
 console.log(ownProps)
 console.log(prototypeProps)
+console.log(beagle)
