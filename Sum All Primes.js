@@ -17,4 +17,4 @@ const sumPrime = (num) => {
     }
     return sum;
 }
-console.log(sumPrime(10))
+console.log(sumPrime(977))
